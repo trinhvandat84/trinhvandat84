@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 ### Hi, I'm Dat!
 Student at [Japan Electronics College](https://www.jec.ac.jp/)
 
